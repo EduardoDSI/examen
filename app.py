@@ -20,7 +20,6 @@ def hello_geek():
                 padding: 0;
                 background-color: #f0f0f0;
             }
-
             .perfil {
                 width: 80%;
                 max-width: 600px;
@@ -31,31 +30,25 @@ def hello_geek():
                 box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
                 text-align: center;
             }
-
             img {
                 width: 150px;
                 height: 150px;
                 border-radius: 50%;
                 margin-bottom: 20px;
             }
-
             h1 {
                 color: #333;
             }
-
             p {
                 color: #666;
             }
-
             ul {
                 list-style: none;
                 padding: 0;
             }
-
             li {
                 margin-bottom: 10px;
             }
-
             button {
                 background-color: #007bff;
                 color: #fff;
@@ -66,7 +59,6 @@ def hello_geek():
                 font-size: 16px;
                 margin-top: 20px;
             }
-
             button:hover {
                 background-color: #0056b3;
             }
